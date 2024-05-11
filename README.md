@@ -2,7 +2,6 @@
 #### I am a budding Data Analyst
 ![I am a budding Data Analyst](https://www.gif-maniac.com/gifs/50/49729.gif)
 
-I'm keen on uncovering insights from data and transforming them into actionable strategies. Here, you'll find a collection of projects reflecting my journey in the world of data
 
 Skills: PYTHON / SQL / ML / JAVA / C++
 
