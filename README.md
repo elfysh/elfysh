@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Eleanor
-#### I am a budding Data Analyst🤔
+#### I am a Data Analyst🤔
 ![I am a Data Analyst](https://www.gif-maniac.com/gifs/50/49729.gif)
 
 
 Skills: PYTHON / SQL / ML / JAVA / C++
 
 - 🌱 I’m currently learning machine learning and python 
-- 📫 How to reach me: [email](eleonora.tabakova@yandex.ru) 
+- 📫 How to reach me: [email](i@elfysh.ru) 
 
 
 
